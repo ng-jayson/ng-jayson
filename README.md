@@ -1,7 +1,12 @@
 # About Me
 Hey there! I am Jayson, a sophomore Information Systems student at the National University of Singapore! I enjoy doing web development with React and Next.js. I also love designing and doing UI/UX in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayson237)](https://github.com/anuraghazra/github-readme-stats)
+<p float="left">
+  <a href="https://github.com/jayson237/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayson237&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Jayson's%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson237&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compacttitle_color=dd58c1"/>
+  </a>
+</p>
 
 ## Skills and Experience
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -16,7 +21,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 
 #
 
-<h3>Reach out to me</h3>
+## Reach out to me
 <p>
 <a href="https://www.instagram.com/jinjays_/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
