@@ -1,5 +1,5 @@
 # About Me
-Hey there! I am Jayson, a sophomore Information Systems student at the National University of Singapore! I enjoy doing web development with React and Next.js. I also love designing and doing UI/UX in general.
+Hey there! I am Jayson, a sophomore Information Systems student at the National University of Singapore! I enjoy doing web development with React and Next.js. I also love designing and doing UI/UX in general. Please do check out my website at https://jayson-ng.com
 
 <p float="left">
   <a href="https://github.com/jayson237/">
