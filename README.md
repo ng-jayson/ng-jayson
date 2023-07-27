@@ -1,6 +1,4 @@
 # About Me
-<h2>Welcome! <a href="https://github.com/jayson237"> <img src="https://visitor-badge.laobi.icu/badge?page_id=jayson237" alt="Visitors"></a></h2>
-
 Hey there! I am Jayson, a sophomore Information Systems student at the National University of Singapore!
 
 <h3>Reach out to me</h3>
