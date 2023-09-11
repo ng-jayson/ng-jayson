@@ -1,6 +1,19 @@
 # About Me
 Hey there! I am Jayson, a sophomore Information Systems student at the National University of Singapore! I enjoy doing web development with React and Next.js. I also love designing and doing UI/UX in general. Please do check out my website at https://jayson-ng.com
 
+## Reach out to me
+<p>
+<a href="https://www.instagram.com/jinjays_/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jayson-ng/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jaysonng3@gmail.com">
+  <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 <p float="left">
   <a href="https://github.com/jayson237/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayson237&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=eeebe3&icon_color=eeebe3&custom_title=Jayson's%20GitHub%20Stats" />
@@ -27,15 +40,4 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 </p>
 
 
-## Reach out to me
-<p>
-<a href="https://www.instagram.com/jinjays_/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jayson-ng/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:jaysonng3@gmail.com">
-  <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+
