@@ -4,7 +4,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 <p float="left">
   <a href="https://github.com/jayson237/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayson237&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=eeebe3&icon_color=eeebe3&custom_title=Jayson's%20GitHub%20Stats" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact" alt="jayson237" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact" alt="jayson237" />
   </a>
 </p>
 
