@@ -24,6 +24,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 <p float="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact" alt="jayson237" />
 </p>
+
 </br>
 
 #
