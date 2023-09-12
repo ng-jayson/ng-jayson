@@ -26,6 +26,8 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact&theme=react&title_color=eeebe3" alt="jayson237" />
 </p>
 
+#
+
 ## Skills and Experience
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
