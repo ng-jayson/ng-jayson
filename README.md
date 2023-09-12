@@ -20,8 +20,6 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
   </a>
 </p>
 
-#
-
 <p float="left">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact&theme=react&title_color=eeebe3" alt="jayson237" />
 </p>
