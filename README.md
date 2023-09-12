@@ -31,7 +31,8 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-</br>
+</br >
+
 
 <p float="left">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayson237&show_icons=true&locale=en&layout=compact&theme=react&title_color=eeebe3" alt="jayson237" />
