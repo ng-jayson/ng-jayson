@@ -16,7 +16,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 
 <p float="left">
   <a href="https://github.com/jayson237/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayson237&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=eeebe3&icon_color=eeebe3&custom_title=Jayson's%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayson237&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=eeebe3&icon_color=eeebe3&custom_title=Jayson's%20GitHub%20Stats" />
   </a>
 </p>
 
