@@ -36,7 +36,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 #
 
 <p float="left">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?hide=roff&username=jayson237&count-private=true&show_icons=true&locale=en&layout=compact&theme=react&title_color=eeebe3" alt="jayson237" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?hide=roff&hide=shell&username=jayson237&count-private=true&show_icons=true&locale=en&layout=compact&theme=react&title_color=eeebe3" alt="jayson237" />
 </p>
 
 
