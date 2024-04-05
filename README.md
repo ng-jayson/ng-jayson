@@ -18,7 +18,7 @@ Hey there! I am Jayson, a sophomore Information Systems student at the National 
 
 ## My stats
 <img align="left" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs?hide=roff&username=jayson237&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&theme=react&title_color=eeebe3" alt="Top Langs"/>
-<br>
+
 <img align="left" width="440px" src="https://github-readme-stats.vercel.app/api?username=jayson237&show_icons=true&theme=react&title_color=eeebe3&icon_color=46cf76&hide_border=true&ring_color=46cf76&line_height=31" alt="Jayson Ng's Stats" />
 
 
