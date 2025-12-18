@@ -1,5 +1,5 @@
 # About Me 👋✨ <img src="https://komarev.com/ghpvc/?username=ng-jayson&label=visitors&color=121212&style=flat" alt="ng-jayson" />
-Hey there! I am Jayson, a final-year Information Systems student at the National University of Singapore! I enjoy doing web products with React and Next.js. I also love designing and doing UI/UX in general!
+Hey there! I’m Jayson, a final-year Information Systems student at NUS who loves creating products that make a real difference
 
 ## Reach out to me
 <p>
