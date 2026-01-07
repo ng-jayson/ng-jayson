@@ -1,5 +1,5 @@
 # About Me 👋✨ <img src="https://komarev.com/ghpvc/?username=ng-jayson&label=visitors&color=121212&style=flat" alt="ng-jayson" />
-Hey there! I’m Jayson, a final-year Information Systems student at NUS who loves creating products that make a real difference
+Hey there! I’m Jayson, a final-year Information Systems student at NUS who loves building products that make a real difference
 
 ## Reach out to me
 <p>
