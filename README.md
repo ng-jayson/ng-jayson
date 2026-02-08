@@ -3,7 +3,7 @@ Hey there! I’m Jayson, a final-year Information Systems student at NUS who lov
 
 ## Reach out to me
 <p>
-<a href="https://www.instagram.com/jinjaay_/">
+<a href="https://www.instagram.com/jinnjay_/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jayson-ng/">
